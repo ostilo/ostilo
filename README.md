@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ostilo
 - 👀 I’m interested in Android Application Devlopment
-- 🌱 I’m currently learning Jetpack Compose 
 - 💞️ I’m looking to collaborate on android app projects
 - 📫 How to reach me on linked in https://www.linkedin.com/in/ayodeji-olalekan-a39087167/ , email - bigsolverstech@gmail.com. 
 
