@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ostilo
 - 👀 I’m interested in Android Application Devlopment
 - 💞️ I’m looking to collaborate on android app projects
-- 📫 How to reach me on linked in https://www.linkedin.com/in/ayodeji-olalekan-a39087167/ , email - bigsolverstech@gmail.com. 
+- 📫 How to reach me on linked in https://www.linkedin.com/in/ayodeji-olalekan-a39087167/ , email - olalekanayodeji79@gmail.com. 
 
 <!---
 ostilo/ostilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
